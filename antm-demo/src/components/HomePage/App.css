@@ -1,0 +1,20 @@
+.am-navbar{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 2;
+}
+.main-content{
+  width: 100%;
+  height: 100%;
+  padding: 45px 0 50px;
+}
+
+.am-tab-bar{
+  height: 50px!important;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
